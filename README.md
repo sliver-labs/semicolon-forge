@@ -1,5 +1,10 @@
-## Foundry
+## Semicolon Forge
+> Contracts for Semicolon Fingers
 
+> [!TIP]
+> Current branch :: [`1-initial`](https://github.com/sliver-labs/semicolon-forge/tree/1-initial)
+
+<!--
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
@@ -64,3 +69,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+-->
